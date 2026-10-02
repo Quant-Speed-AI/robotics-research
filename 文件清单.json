@@ -3,13 +3,13 @@
   "files": [
     {
       "path": "CHANGELOG.md",
-      "bytes": 302,
-      "sha256": "edd5208741375a08c95c2963782888ea79170126ddb25daacf41d4bd6903f167"
+      "bytes": 580,
+      "sha256": "6ce37bca0e45901591acd4b0c518b547764cf7112bc9ee4189d11d2bd267acda"
     },
     {
       "path": "README.md",
-      "bytes": 2841,
-      "sha256": "cc46eaab00704b793bc4a59f9e753bd4e30caa8a1d81f40723375769904172b9"
+      "bytes": 3123,
+      "sha256": "9ef94b6bebc539335bcfbea44d6e2001c074dc0e7a89b86fe9583525b5bc7dba"
     },
     {
       "path": "docs/01_项目技术核验.md",
@@ -43,8 +43,13 @@
     },
     {
       "path": "docs/README.md",
-      "bytes": 910,
-      "sha256": "1a1eb58e4c9390bd4f510338d0c219b6f623c78929afa3ed772519762fdb63db"
+      "bytes": 995,
+      "sha256": "e88975ab53bf3f17f466e1df913373d21e841a177285e6a0b9d36897f8f68094"
+    },
+    {
+      "path": "docs/07_AI现场绘画商业MVP_4周计划.md",
+      "bytes": 10828,
+      "sha256": "85a5c8535e01b17f5ac010730a69a6c537343507470d5056a60e31a87493cb8d"
     },
     {
       "path": "docs/XLeRobot与Mobile_ALOHA_中国复现与昆明商业化深度调研_2026-10-02.md",
