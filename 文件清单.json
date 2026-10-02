@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-02",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 302,
+      "sha256": "edd5208741375a08c95c2963782888ea79170126ddb25daacf41d4bd6903f167"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2841,
+      "sha256": "cc46eaab00704b793bc4a59f9e753bd4e30caa8a1d81f40723375769904172b9"
+    },
+    {
+      "path": "docs/01_项目技术核验.md",
+      "bytes": 14257,
+      "sha256": "f7c38321139c0283cefb86a4e84a4e47795e222aa3f04fd6d6fe3ec642f10922"
+    },
+    {
+      "path": "docs/02_中国总成与采购.md",
+      "bytes": 15330,
+      "sha256": "77462b142f7bf159360864c86c8426c3d525c8dd90ab6c305aec42ba73ebc97b"
+    },
+    {
+      "path": "docs/03_中国落地与竞争.md",
+      "bytes": 11725,
+      "sha256": "dcd42fafebf14428bd0d31eb4229a2750b0f55999e64ee81cfcf65e3534a3a4d"
+    },
+    {
+      "path": "docs/04_昆明场景与商业假设.md",
+      "bytes": 3830,
+      "sha256": "fb15d0b403bcf27f9c4cdb84efcec0b5b047a236c7b37b8f42ded030ccbccdf3"
+    },
+    {
+      "path": "docs/05_GPT6机械臂绘画技术方案.md",
+      "bytes": 12892,
+      "sha256": "89251d5bbb060609b032f0b8367a8eef57ec63ead03a8f2a18aa39570943b44a"
+    },
+    {
+      "path": "docs/06_WLKATA绘画源码核验.md",
+      "bytes": 7569,
+      "sha256": "14d3b49fd75cf8f097e1690be90f338bc1d3716982459f99738b77e731949bc6"
+    },
+    {
+      "path": "docs/README.md",
+      "bytes": 910,
+      "sha256": "1a1eb58e4c9390bd4f510338d0c219b6f623c78929afa3ed772519762fdb63db"
+    },
+    {
+      "path": "docs/XLeRobot与Mobile_ALOHA_中国复现与昆明商业化深度调研_2026-10-02.md",
+      "bytes": 24956,
+      "sha256": "4c34414f34dfb9fec417b4273077f2e0ef2b6073b7eaf2cbb026546ecac1d201"
+    },
+    {
+      "path": "docs/国外轮式移动机械臂_MVP与落地案例_2026-10-02.md",
+      "bytes": 3961,
+      "sha256": "bb1fd6a9a871e4fb1c5740d41e8cf7708c98346b4601b5162163109a16efd188"
+    },
+    {
+      "path": "docs/多轴机械臂抓取开源项目调研-2026-10-01.md",
+      "bytes": 25156,
+      "sha256": "fa3d310115a7fe50a534011e156ae058e3ffaf56fc19739234f428e3fee7d798"
+    },
+    {
+      "path": "docs/机器人项目完整调研汇总.md",
+      "bytes": 34176,
+      "sha256": "aaa15bbbbe5f90c1b2211a0763e9823e2a4b2609575a2ea1eb4772ca981d5748"
+    },
+    {
+      "path": "机器人调研资料包_2026-10-02.zip",
+      "bytes": 81346,
+      "sha256": "6e52f27b7f04c68bbe0bbbcb18feb96b4a34b0cb474841d1970012041ffc4acc"
+    }
+  ]
+}
