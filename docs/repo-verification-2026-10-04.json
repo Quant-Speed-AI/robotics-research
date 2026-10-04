@@ -1,0 +1,109 @@
+{
+  "verified_date": "2026-10-04",
+  "timezone": "Asia/Shanghai",
+  "verification_scope": "GitHub metadata, source tree and selected source/documentation reads; no training or hardware execution",
+  "repositories": [
+    {
+      "repo": "jinnymo/so101-pi05-base",
+      "url": "https://github.com/jinnymo/so101-pi05-base",
+      "default_branch": "main",
+      "sha": "73167f4dba88633aeec95ba7a3b3881916fa9aaa",
+      "commit_date": "2026-08-04T09:44:20Z",
+      "license": "Apache-2.0",
+      "checked_paths": [
+        "docs/01-overview.md",
+        "docs/07-lora-finetuning.md",
+        "docs/06-inference.md",
+        "inference/eval.yaml",
+        "scripts/verify_checkpoint.py"
+      ]
+    },
+    {
+      "repo": "huggingface/lerobot",
+      "url": "https://github.com/huggingface/lerobot",
+      "default_branch": "main",
+      "sha": "8c920c4270460851cedd2737657584586d3dc66f",
+      "commit_date": "2026-10-03T16:44:21Z",
+      "license": "Apache-2.0",
+      "checked_paths": [
+        "docs/source/so101.mdx",
+        "docs/source/il_robots.mdx",
+        "docs/source/pi05.mdx",
+        "src/lerobot/policies/pi05/configuration_pi05.py",
+        "src/lerobot/robots/bi_so_follower/bi_so_follower.py"
+      ]
+    },
+    {
+      "repo": "Physical-Intelligence/openpi",
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "default_branch": "main",
+      "sha": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "commit_date": "2026-08-24T16:27:12Z",
+      "license": "Apache-2.0",
+      "checked_paths": [
+        "README.md",
+        "src/openpi/training/config.py",
+        "scripts/compute_norm_stats.py",
+        "scripts/train.py",
+        "scripts/serve_policy.py"
+      ]
+    },
+    {
+      "repo": "ljt228/pi05-so101-finetune",
+      "url": "https://github.com/ljt228/pi05-so101-finetune",
+      "default_branch": "main",
+      "sha": "2b7befa55afecb0ca81c34c2bfd7c172c0c716b2",
+      "commit_date": "2026-08-26T06:10:31Z",
+      "license": "MIT",
+      "checked_paths": [
+        "config/pi05_so101_lora_finetune.py",
+        "src/openpi/training/config.py",
+        "src/openpi/policies/so101_policy.py",
+        "scripts/convert_dataset_v30_to_v21.py",
+        "scripts/so101_breakfast.py"
+      ]
+    },
+    {
+      "repo": "Vector-Wangel/XLeRobot",
+      "url": "https://github.com/Vector-Wangel/XLeRobot",
+      "default_branch": "main",
+      "sha": "749abc837d5d771f26aeff961009c290e574b024",
+      "commit_date": "2026-09-24T19:03:32Z",
+      "license": "Apache-2.0",
+      "checked_paths": [
+        "docs/en/source/software/getting_started/VLA_pi05.md",
+        "software/src/model/SO101Robot.py"
+      ]
+    },
+    {
+      "repo": "xuweiwu/XLeRobot",
+      "url": "https://github.com/xuweiwu/XLeRobot",
+      "default_branch": "main",
+      "sha": "3707155eb256f08968fe8d6b89c81d54f668ee11",
+      "commit_date": "2025-12-29T06:48:42Z",
+      "license": "Apache-2.0",
+      "branches": [
+        "main",
+        "pi05_dual_arm"
+      ],
+      "target_branch": "pi05_dual_arm",
+      "target_sha": "2970cede932ddce8dabe69aa46e043e5c1f29f31",
+      "checked_paths": []
+    },
+    {
+      "repo": "xuweiwu/openpi",
+      "url": "https://github.com/xuweiwu/openpi",
+      "default_branch": "main",
+      "sha": "981483dca0fd9acba698fea00aa6e52d56a66c58",
+      "commit_date": "2025-12-27T14:50:32Z",
+      "license": "Apache-2.0",
+      "branches": [
+        "biso101_training_support",
+        "main"
+      ],
+      "target_branch": "biso101_training_support",
+      "target_sha": "73ef4784da8228774de9e8d8e1dc38e3e191fb71",
+      "checked_paths": []
+    }
+  ]
+}

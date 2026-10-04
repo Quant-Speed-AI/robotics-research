@@ -1,20 +1,21 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-04",
+  "note": "文件清单不包含自身；2026-10-02 ZIP 为保留的历史快照；2026-10-04 ZIP 包含当前文档与核验元数据。",
   "files": [
     {
       "path": "CHANGELOG.md",
-      "bytes": 580,
-      "sha256": "6ce37bca0e45901591acd4b0c518b547764cf7112bc9ee4189d11d2bd267acda"
+      "bytes": 1044,
+      "sha256": "45befd36626ab5208bfa11b9004ec5b7f1c52df3485d9c43663b1c3ae08489a1"
     },
     {
       "path": "README.md",
-      "bytes": 3123,
-      "sha256": "9ef94b6bebc539335bcfbea44d6e2001c074dc0e7a89b86fe9583525b5bc7dba"
+      "bytes": 3479,
+      "sha256": "2a199fd5e4a20c1c58814529e5795c8120c1ac4f2d7f01264a0424f4e174659d"
     },
     {
       "path": "docs/01_项目技术核验.md",
-      "bytes": 14257,
-      "sha256": "f7c38321139c0283cefb86a4e84a4e47795e222aa3f04fd6d6fe3ec642f10922"
+      "bytes": 15038,
+      "sha256": "4061354d68999932a3adcf78a669355664342eae8e46a292701efb8d0c2c57c9"
     },
     {
       "path": "docs/02_中国总成与采购.md",
@@ -42,19 +43,29 @@
       "sha256": "14d3b49fd75cf8f097e1690be90f338bc1d3716982459f99738b77e731949bc6"
     },
     {
-      "path": "docs/README.md",
-      "bytes": 995,
-      "sha256": "e88975ab53bf3f17f466e1df913373d21e841a177285e6a0b9d36897f8f68094"
-    },
-    {
       "path": "docs/07_AI现场绘画商业MVP_4周计划.md",
       "bytes": 10828,
       "sha256": "85a5c8535e01b17f5ac010730a69a6c537343507470d5056a60e31a87493cb8d"
     },
     {
+      "path": "docs/08_SO101与XLeRobot_pi05代码仓库核验_2026-10-04.md",
+      "bytes": 14745,
+      "sha256": "d1a94e9d726a911de81568861426d556353433e4b2308db1a6daab352208b8ee"
+    },
+    {
+      "path": "docs/README.md",
+      "bytes": 1103,
+      "sha256": "bdc8245f3e2eb35af7d989ecd1e79c5bed7cfefc6cf94cf6fd4c0724acaa7fb8"
+    },
+    {
       "path": "docs/XLeRobot与Mobile_ALOHA_中国复现与昆明商业化深度调研_2026-10-02.md",
       "bytes": 24956,
       "sha256": "4c34414f34dfb9fec417b4273077f2e0ef2b6073b7eaf2cbb026546ecac1d201"
+    },
+    {
+      "path": "docs/repo-verification-2026-10-04.json",
+      "bytes": 3605,
+      "sha256": "d31d87e28a771c0761b998ced52de78971e08540d38e3fa102c6f5d8d00bbc1d"
     },
     {
       "path": "docs/国外轮式移动机械臂_MVP与落地案例_2026-10-02.md",
@@ -68,13 +79,18 @@
     },
     {
       "path": "docs/机器人项目完整调研汇总.md",
-      "bytes": 34176,
-      "sha256": "aaa15bbbbe5f90c1b2211a0763e9823e2a4b2609575a2ea1eb4772ca981d5748"
+      "bytes": 34957,
+      "sha256": "272edeb619102e3208f39e906199a38a56dc5ce58353440304b7dd5872efab44"
     },
     {
       "path": "机器人调研资料包_2026-10-02.zip",
       "bytes": 81346,
       "sha256": "6e52f27b7f04c68bbe0bbbcb18feb96b4a34b0cb474841d1970012041ffc4acc"
+    },
+    {
+      "path": "机器人调研资料包_2026-10-04.zip",
+      "bytes": 94959,
+      "sha256": "305f8572fdada1dab2a5dcff30995ad64c5e76841bb43fa82cf3c66c2e2e31a7"
     }
   ]
 }
