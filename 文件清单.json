@@ -1,16 +1,16 @@
 {
   "date": "2026-10-07",
-  "note": "文件清单不包含自身；2026-10-02和2026-10-04 ZIP为历史快照，不包含2026-10-07新增教程专题；最新文档从仓库直接读取。",
+  "note": "文件清单不包含自身；2026-10-02和2026-10-04 ZIP为历史快照，不包含2026-10-07新增教程、官方文档与实施路线专题；最新文档从仓库直接读取。",
   "files": [
     {
       "path": "CHANGELOG.md",
-      "bytes": 1521,
-      "sha256": "882d3a3572da2975e6e81436d659d0027d5ec963ada0b346c273abdba8b087c1"
+      "bytes": 2189,
+      "sha256": "d79deae3d75cffaac1864ce4679e70cea27f0cfbc8f2e40bacab1c8be9adcad2"
     },
     {
       "path": "README.md",
-      "bytes": 3942,
-      "sha256": "dde0528f8b9bb6556f77c6584da767701dad223e5a93177063bb449c4185bd81"
+      "bytes": 4672,
+      "sha256": "f08a6d3ded16868cf1c57a88eeb4601fb305b362c706fef1e7357bf548babab9"
     },
     {
       "path": "docs/01_项目技术核验.md",
@@ -54,8 +54,13 @@
     },
     {
       "path": "docs/README.md",
-      "bytes": 1226,
-      "sha256": "3f5405377a65e6a7d05507c250322963639c3ce18c3f6c3719d30632d59bdf4a"
+      "bytes": 1531,
+      "sha256": "8ec12a5a37592ab79121ecec1c79b3817e0f48aec7dcde33125722b3d0254256"
+    },
+    {
+      "path": "docs/XLeRobot_0.4双轮12V_资料导航与实施路线.md",
+      "bytes": 5734,
+      "sha256": "436f74acb7a37c3a4815d2178eac30143f9089f4f87a53640111d2b093ffaa34"
     },
     {
       "path": "docs/XLeRobot与Mobile_ALOHA_中国复现与昆明商业化深度调研_2026-10-02.md",
@@ -64,8 +69,18 @@
     },
     {
       "path": "docs/XLeRobot双从教程_调研与避坑_2026-10-07.md",
-      "bytes": 10590,
-      "sha256": "5752b1e765f479b4c857db9149a78ddbbe7d97cca08b173844449ad978606291"
+      "bytes": 11271,
+      "sha256": "507d9ae7eeb3f4ef404f9eae580c1cb49ba6367d29f514b5689c871049fc3ef9"
+    },
+    {
+      "path": "docs/XLeRobot官方文档_0.4双轮12V适配调研_2026-10-07.md",
+      "bytes": 14438,
+      "sha256": "38252f9bd87821f0c046a8ad139f3ed1ebeafb29a7012b4e707424ccf841236a"
+    },
+    {
+      "path": "docs/XLeRobot官方硬件与仿真核验_2026-10-07.md",
+      "bytes": 8741,
+      "sha256": "da95174ce3f48fd80fe4d22b9355bf3abd32b17ba12b61c58b0eb38713c1ab84"
     },
     {
       "path": "docs/repo-verification-2026-10-04.json",
@@ -84,8 +99,8 @@
     },
     {
       "path": "docs/机器人项目完整调研汇总.md",
-      "bytes": 35962,
-      "sha256": "4310f3feb99e41925eb55d58cee9173904b4fe00b041569f87611bfcdb75c490"
+      "bytes": 36860,
+      "sha256": "5e241b3dd24b2fe6a75c3dd07428cb94ca9a0873177d1d3c68f4dd3832207da5"
     },
     {
       "path": "机器人调研资料包_2026-10-02.zip",
