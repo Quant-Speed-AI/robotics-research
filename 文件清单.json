@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-04",
-  "note": "文件清单不包含自身；2026-10-02 ZIP 为保留的历史快照；2026-10-04 ZIP 包含当前文档与核验元数据。",
+  "date": "2026-10-07",
+  "note": "文件清单不包含自身；2026-10-02和2026-10-04 ZIP为历史快照，不包含2026-10-07新增教程专题；最新文档从仓库直接读取。",
   "files": [
     {
       "path": "CHANGELOG.md",
-      "bytes": 1044,
-      "sha256": "45befd36626ab5208bfa11b9004ec5b7f1c52df3485d9c43663b1c3ae08489a1"
+      "bytes": 1521,
+      "sha256": "882d3a3572da2975e6e81436d659d0027d5ec963ada0b346c273abdba8b087c1"
     },
     {
       "path": "README.md",
-      "bytes": 3479,
-      "sha256": "2a199fd5e4a20c1c58814529e5795c8120c1ac4f2d7f01264a0424f4e174659d"
+      "bytes": 3942,
+      "sha256": "dde0528f8b9bb6556f77c6584da767701dad223e5a93177063bb449c4185bd81"
     },
     {
       "path": "docs/01_项目技术核验.md",
@@ -54,13 +54,18 @@
     },
     {
       "path": "docs/README.md",
-      "bytes": 1103,
-      "sha256": "bdc8245f3e2eb35af7d989ecd1e79c5bed7cfefc6cf94cf6fd4c0724acaa7fb8"
+      "bytes": 1226,
+      "sha256": "3f5405377a65e6a7d05507c250322963639c3ce18c3f6c3719d30632d59bdf4a"
     },
     {
       "path": "docs/XLeRobot与Mobile_ALOHA_中国复现与昆明商业化深度调研_2026-10-02.md",
       "bytes": 24956,
       "sha256": "4c34414f34dfb9fec417b4273077f2e0ef2b6073b7eaf2cbb026546ecac1d201"
+    },
+    {
+      "path": "docs/XLeRobot双从教程_调研与避坑_2026-10-07.md",
+      "bytes": 10590,
+      "sha256": "5752b1e765f479b4c857db9149a78ddbbe7d97cca08b173844449ad978606291"
     },
     {
       "path": "docs/repo-verification-2026-10-04.json",
@@ -79,8 +84,8 @@
     },
     {
       "path": "docs/机器人项目完整调研汇总.md",
-      "bytes": 34957,
-      "sha256": "272edeb619102e3208f39e906199a38a56dc5ce58353440304b7dd5872efab44"
+      "bytes": 35962,
+      "sha256": "4310f3feb99e41925eb55d58cee9173904b4fe00b041569f87611bfcdb75c490"
     },
     {
       "path": "机器人调研资料包_2026-10-02.zip",
